@@ -5,5 +5,5 @@
 4. Knowledge of HTML, CSS, Bootstrap 4, JavaScript, C/C++.
 5. [Web page](https://misxka.github.io/my-site/index.html)
 6. Landing page of website
-7. HTMLAcademy (HTML/CSS), Yandex.Praktikum (HTML/CSS), Udemy(JavaScript), Coursera (C++ course), BSUIR (2019-2023)
+7. HTMLAcademy (HTML/CSS), Yandex.Praktikum (HTML/CSS), Udemy(JavaScript, Node.js), Coursera (C++ course), BSUIR (2019-2023)
 8. English B1+
